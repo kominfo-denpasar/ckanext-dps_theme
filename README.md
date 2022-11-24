@@ -1,6 +1,6 @@
 # ckanext-dps_theme
 
-### http://opendata.kp.gov.pk CKAN theme
+### Satu Data Denpasar CKAN theme
 
 
 ### Datasets Page
