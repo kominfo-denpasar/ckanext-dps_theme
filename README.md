@@ -1,7 +1,4 @@
-For detailed documentation, visit https://aliwaqas.gitbook.io/opendata-portal-documentation/
-
-![](./kpodp-header.PNG)
-# ckanext-kpodp_theme
+# ckanext-dps_theme
 
 ### http://opendata.kp.gov.pk CKAN theme
 
@@ -22,4 +19,3 @@ For detailed documentation, visit https://aliwaqas.gitbook.io/opendata-portal-do
 ----------------------------
 
 Run `sass ckanext/kpodp_theme/public/css/sass/main.scss ckanext/kpodp_theme/public/css/main.css`
-
